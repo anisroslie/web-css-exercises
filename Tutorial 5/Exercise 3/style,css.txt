@@ -1,0 +1,15 @@
+h2 {
+    color: darkgreen;
+    font-size: 20pt;
+}
+
+h3 {
+    color: darkred;
+    font-size: 20pt;
+}
+
+p {
+    color: #555;
+    font-size: 20pt;
+    line-height: 1.5;
+}
